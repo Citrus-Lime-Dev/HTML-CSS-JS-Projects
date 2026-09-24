@@ -1,2 +1,2 @@
 # HTML-CSS-JS-Projects
-List of HTML_CSS_Projects
+Projects with only HTML , CSS and Vanilla JS Code.
